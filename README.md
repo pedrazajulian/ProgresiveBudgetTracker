@@ -39,7 +39,7 @@
 
   ## 💻 Usage  
     
-    With this application the Budget Tracker allows for the user to add and subtract transactions online or offline to a budget to update in real time. 
+With this application the Budget Tracker allows for the user to add and subtract transactions online or offline to a budget to update in real time. This is a great application that hyou can install on your computer or mobile device to keep track of your expenses even without a internet connection.
 
   ## License 
     This project is licensed with MIT.
